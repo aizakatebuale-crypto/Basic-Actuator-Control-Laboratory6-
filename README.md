@@ -30,6 +30,7 @@ https://github.com/user-attachments/assets/9f8b0a7e-36ae-4c97-8f19-487f04cd845b
   Motor ON
   Motor OFF (coast)
   Motor ON
-
+  ```
+  
   <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/823396e1-04f8-4fce-97e6-6288b3a7752b" />
 
