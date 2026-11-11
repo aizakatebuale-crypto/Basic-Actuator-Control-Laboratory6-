@@ -1,27 +1,3 @@
-Messages
-Sun 4:16 PM
-You sent
-unsa imo gibutang sa address
-miming nga gamay dani
-diri ra guro
-Sun 5:17 PM
-miming nga gamay dani
-joker kay si jhayron ba
-nag tagbo mi
-angkas niya iya uyab
-abtika naka down sa helmet
-You sent
-AHAHAHAHA yawa
-miming nga gamay dani
-para di makita iya nawong
-HAHHAHAHAHAHHAHAHAHAH ULOL
-You sent
-kaluod uhlol
-miming nga gamay dani
-bisan naa nas atbang bh i down pa
-Sun 9:51 PM
-miming nga gamay dani
-miming nga gamay dani
 #include <Arduino.h>
 
 const uint8_t ENA = 23;
